@@ -33,7 +33,7 @@ npm install redis
 
 ```
 
-All the apis are present int app/api dir
+All the apis are present in app/api dir
 
 click here to know about apis and the approach :
 
